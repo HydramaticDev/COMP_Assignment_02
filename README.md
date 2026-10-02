@@ -1,10 +1,9 @@
-<<<<<<< Updated upstream
-=======
 https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKoJZrxchxvPYBl89WSLTdsbpw10ZONPsYaQ
 
 # Branch Creation: Following the Feature Branch Workflow, each team member should create a new branch from the main branch for each topic they document (eg: Each topic to make a new branch for is a -)
 
 # Refer back to steps 8-17 in the link above when needed.
+
 
 
 TODO List:
@@ -148,48 +147,6 @@ Peyton
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> Stashed changes
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a documentation website that:
