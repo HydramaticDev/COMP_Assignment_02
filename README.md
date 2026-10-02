@@ -1,3 +1,66 @@
+https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKoJZrxchxvPYBl89WSLTdsbpw10ZONPsYaQ
+
+# Branch Creation: Following the Feature Branch Workflow, each team member should create a new branch from the main branch for each topic they document (eg: Each topic to make a new branch for is a -)
+
+# Refer back to steps 8-17 in the link above when needed.
+
+TODO:
+    - TOPICS
+           
+
+           - JACOB || "git Fundamentals (configuring, initializing a repo, staging and committing files, status, log, and diff, using a .gitignore.)", "The git Life Cycle", "What is git?" [Complete by Oct 3, 2026] [Start Date: ???] [Completed Date: ???]
+
+           - ANTHONY ||
+
+           - SAWYER || "tags," [start date 10/2/2026] [end date 10/2/2026]
+
+           - PEYTON || "stashing" [start 10'2'2026] [end 10/2/2026]
+
+
+
+
+Doing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a documentation website that:
