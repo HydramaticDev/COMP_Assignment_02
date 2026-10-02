@@ -1,3 +1,195 @@
+<<<<<<< Updated upstream
+=======
+https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKoJZrxchxvPYBl89WSLTdsbpw10ZONPsYaQ
+
+# Branch Creation: Following the Feature Branch Workflow, each team member should create a new branch from the main branch for each topic they document (eg: Each topic to make a new branch for is a -)
+
+# Refer back to steps 8-17 in the link above when needed.
+
+
+TODO List:
+
+
+------
+Anthony
+
+Nav #21: Remote Repositories [Start Date: ???] [Completed Date: ???]
+
+Nav #22: Adding/Configuring a GitHub Remote [Start Date: ???] [Completed Date: ???]
+
+Nav #23: Pushing and Pulling [Start Date: ???] [Completed Date: ???]
+
+Nav #24: The How and The Why of Team Git Workflow [Start Date: ???] [Completed Date: ???]
+
+Nav #25: Centralized Workflow [Start Date: ???] [Completed Date: ???]
+
+Nav #26: Feature Branch Workflow [Start Date: ???] [Completed Date: ???]
+
+Nav #27: Forking Workflow [Start Date: ???] [Completed Date: ???]
+------
+
+
+------
+Jacob
+
+Nav #3: What is Git [Start Date: ???] [Completed Date: ???]
+
+Nav #4: The Git Life Cycle [Start Date: ???] [Completed Date: ???]
+
+Nav #5: git fundamental Configuring [Start Date: ???] [Completed Date: ???]
+
+Nav #6: Configuring Git [Start Date: ???] [Completed Date: ???]
+
+Nav #7: Initializing a Repo [Start Date: ???] [Completed Date: ???]
+
+Nav #8: Staging and Commit Files [Start Date: ???] [Completed Date: ???]
+
+Nav #9: Status, Log, and Diff [Start Date: ???] [Completed Date: ???]
+
+Nav #10: Using a Git Ignore File [Start Date: ???] [Completed Date: ???]
+------
+
+
+------
+Sawyer
+
+Nav #2: The Role of Version Control [Start Date: ???] [Completed Date: ???]
+
+Nav #17: Creating, Using, And Merging Branches [Start Date: ???] [Completed Date: ???]
+
+Nav #18: Resolving Merger Conflict [Start Date: ???] [Completed Date: ???]
+
+Nav #20: Tags [Start Date: ???] [Completed Date: ???]
+
+Nav #28: Other Interesting/Useful Git Topics [Start Date: ???] [Completed Date: ???]
+------
+
+
+------
+Peyton
+
+Nav #11: Undoing Git With [Start Date: ???] [Completed Date: ???]
+
+Nav #12: Checkout [Start Date: ???] [Completed Date: ???]
+
+Nav #13: Reset [Start Date: ???] [Completed Date: ???]
+
+Nav #14: Revert [Start Date: ???] [Completed Date: ???]
+
+Nav #15: Clean [Start Date: ???] [Completed Date: ???]
+
+Nav #16: When to use the different Strategies [Start Date: ???] [Completed Date: ???]
+
+Nav #19: Stashing [Start Date: ???] [Completed Date: ???]
+------
+
+
+Doing List:
+
+
+------
+Anthony
+
+
+------
+
+
+------
+Jacob
+
+
+------
+
+
+------
+Sawyer
+
+
+------
+
+
+------
+Peyton
+
+
+------
+
+
+Done List:
+
+
+------
+Anthony
+
+
+------
+
+
+------
+Jacob
+
+
+------
+
+
+------
+Sawyer
+
+
+------
+
+
+------
+Peyton
+
+
+------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> Stashed changes
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a documentation website that:
