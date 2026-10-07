@@ -125,17 +125,9 @@ Jacob
 
 ------
 Sawyer
+
 Nav #2: The Role of Version Control [Start Date: 8/10/2026] [Completed Date: 8/10/2026]
 
-Nav #17: Creating, Using, And Merging Branches [Start Date: 8/10/2026] [Completed Date: 8/10/2026]
-
-Nav #18: Resolving Merger Conflict [Start Date: 8/10/2026] [Completed Date: 8/10/2026]
-
-Nav #20: Tags [Start Date: 30/9/2026] [Completed Date: 30/9/2026]
-
-Nav #28: Other Interesting/Useful Git Topics [Start Date: 8/10/2026] [Completed Date: 8/10/2026]
-
-------
 
 
 ------
