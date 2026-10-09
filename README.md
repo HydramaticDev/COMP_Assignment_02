@@ -95,7 +95,6 @@ Jacob
 ------
 Sawyer
 
-Nav #18: Resolving Merger Conflict [Start Date: 8/10/2026] [Completed Date: ???]
 
 ------
 
@@ -135,6 +134,8 @@ Nav #20: Tags [Start Date: 30/9/2026] [Completed Date: 7/10/2026]
 Nav #28: Other Interesting/Useful Git Topics [Start Date: 7/10/2026] [Completed Date: 7/10/2026]
 
 Nav #17: Creating, Using, And Merging Branches [Start Date:7/10/2026] [Completed Date: 9/10/2026]
+
+Nav #18: Resolving Merge Conflicts [Start Date: 7/10/2026] [Completed Date: 9/10/2026]
 
 
 ------
