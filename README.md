@@ -59,19 +59,7 @@ Sawyer
 ------
 Peyton
 
-Nav #11: Undoing Git With [Start Date: ???] [Completed Date: ???]
 
-Nav #12: Checkout [Start Date: ???] [Completed Date: ???]
-
-Nav #13: Reset [Start Date: ???] [Completed Date: ???]
-
-Nav #14: Revert [Start Date: ???] [Completed Date: ???]
-
-Nav #15: Clean [Start Date: ???] [Completed Date: ???]
-
-Nav #16: When to use the different Strategies [Start Date: ???] [Completed Date: ???]
-
-Nav #19: Stashing [Start Date: ???] [Completed Date: ???]
 ------
 
 
@@ -144,7 +132,19 @@ Nav #18: Resolving Merge Conflicts [Start Date: 7/10/2026] [Completed Date: 9/10
 ------
 Peyton
 
+nav #11 Undoing Git With [Start Date: 01,10,2026] [Completed Date: 09,10,2026]
 
+Nav #12: Checkout [Start Date: 03,10,2026] [Completed Date: 09,10,2026]
+
+Nav #13: Reset [Start Date: 03,10,2026] [Completed Date: 09,10,2026]
+
+Nav #14: Revert [Start Date: 05,10,2026] [Completed Date: 09,10,2026]
+
+Nav #15: Clean [Start Date: 05,10,2026] [Completed Date: 09,10,2026]
+
+Nav #16: When to use the different Strategies [Start Date: 07,10,2026] [Completed Date: 09,10,2026]
+
+Nav #19: Stashing [Start Date: 08,10,2026] [Completed Date: 09,10,2026]
 ------
 
 
