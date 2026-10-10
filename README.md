@@ -83,7 +83,6 @@ Jacob
 ------
 Sawyer
 
-Nav #28: Other Interesting/Useful Git Topics [Start Date: 7/10/2026] [Completed Date: ???]
 
 ------
 
@@ -122,6 +121,8 @@ Nav #17: Creating, Using, And Merging Branches [Start Date:07/10/2026] [Complete
 Nav #18: Resolving Merge Conflicts [Start Date:07/10/2026] [Completed Date: 10/10/2026]
 
 Nav #20: Tags [Start Date: 09/30/2026] [Completed Date: 10/10/2026]
+
+Nav #28: Other Interesting/Useful Git Topics [Start Date: 7/10/2026] [Completed Date: 10/10/2026]
 ------
 
 
