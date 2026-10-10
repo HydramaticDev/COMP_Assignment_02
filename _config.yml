@@ -1,11 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Assignment 02 Website
+description: A collaborative website for assignment 2
 theme: just-the-docs
 
-url: https://StungEye-RRC.github.io/Just-The-Docs-Template
+url: https://HydramaticDev.github.io/COMP_Assignment_02
 
 aux_links:
-  Template Repository: https://github.com/StungEye-RRC/Just-The-Docs-Template
+  Template Repository: https://github.com/HydramaticDev/COMP_Assignment_02
 
 sass: # Added to silence a number of warning triggered during the build process.
   quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541

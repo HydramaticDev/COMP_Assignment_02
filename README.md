@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 https://rrcca.sharepoint.com/:w:/s/Dept-VideoGameDevelopment-21404/EaEmDiqnJNZKoJZrxchxvPYBl89WSLTdsbpw10ZONPsYaQ
 
 # Branch Creation: Following the Feature Branch Workflow, each team member should create a new branch from the main branch for each topic they document (eg: Each topic to make a new branch for is a -)
@@ -59,19 +57,19 @@ Doing List:
 ------
 Anthony
 
-Nav #21: Remote Repositories [Start Date: Oct.10th, 2026] [Completed Date: ???]
+Nav #21: Remote Repositories [Start Date: Oct.9th, 2026] [Completed Date: ???]
 
-Nav #22: Adding/Configuring a GitHub Remote [Start Date: Oct.10th, 2026] [Completed Date: ???]
+Nav #22: Adding/Configuring a GitHub Remote [Start Date: Oct.9th, 2026] [Completed Date: ???]
 
-Nav #23: Pushing and Pulling [Start Date: Oct.10th, 2026] [Completed Date: ???]
+Nav #23: Pushing and Pulling [Start Date: Oct.9th, 2026] [Completed Date: ???]
 
-Nav #24: The How and The Why of Team Git Workflow [Start Date: Oct.10th, 2026] [Completed Date: ???]
+Nav #24: The How and The Why of Team Git Workflow [Start Date: Oct.9th, 2026] [Completed Date: ???]
 
-Nav #25: Centralized Workflow [Start Date: Oct.10th, 2026] [Completed Date: ???]
+Nav #25: Centralized Workflow [Start Date: Oct.9th, 2026] [Completed Date: ???]
 
-Nav #26: Feature Branch Workflow [Start Date: Oct.10th, 2026] [Completed Date: ???]
+Nav #26: Feature Branch Workflow [Start Date: Oct.9th, 2026] [Completed Date: ???]
 
-Nav #27: Forking Workflow [Start Date: Oct.10th, 2026] [Completed Date: ???]
+Nav #27: Forking Workflow [Start Date: Oct.9th, 2026] [Completed Date: ???]
 ------
 
 
@@ -152,7 +150,7 @@ Nav #19: Stashing [Start Date: 08,10,2026] [Completed Date: 09,10,2026]
 
 
 
->>>>>>> Stashed changes
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a documentation website that:
