@@ -40,8 +40,6 @@ Nav #10: Using a Git Ignore File [Start Date: ???] [Completed Date: ???]
 ------
 Sawyer
 
-Nav #20: Tags [Start Date: ???] [Completed Date: ???]
-
 Nav #28: Other Interesting/Useful Git Topics [Start Date: ???] [Completed Date: ???]
 
 ------
@@ -85,9 +83,7 @@ Jacob
 
 ------
 Sawyer
-Nav #17: Creating, Using, And Merging Branches [Start Date:07/10/2026] [Completed Date: ???]
-
-Nav #18: Resolving Merge Conflicts [Start Date:07/10/2026] [Completed Date: ???]
+Nav #20: Tags [Start Date: 09/30/2026] [Completed Date: ???]
 
 ------
 
@@ -120,6 +116,10 @@ Jacob
 Sawyer
 
 Nav #2: The Role of Version Control [Start Date:07/10/2026] [Completed Date: 10/10/2026]
+
+Nav #17: Creating, Using, And Merging Branches [Start Date:07/10/2026] [Completed Date: 10/10/2026]
+
+Nav #18: Resolving Merge Conflicts [Start Date:07/10/2026] [Completed Date: 10/10/2026]
 ------
 
 
