@@ -4,7 +4,7 @@
 
 ## layout: default
 title: Undoing Git With...
-nav_order: 12
+nav_order: 5
 has_children: true
 
 # Undoing Changes in Git
