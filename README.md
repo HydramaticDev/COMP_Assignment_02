@@ -12,19 +12,7 @@ TODO List:
 ------
 Anthony
 
-Nav #21: Remote Repositories [Start Date: ???] [Completed Date: ???]
 
-Nav #22: Adding/Configuring a GitHub Remote [Start Date: ???] [Completed Date: ???]
-
-Nav #23: Pushing and Pulling [Start Date: ???] [Completed Date: ???]
-
-Nav #24: The How and The Why of Team Git Workflow [Start Date: ???] [Completed Date: ???]
-
-Nav #25: Centralized Workflow [Start Date: ???] [Completed Date: ???]
-
-Nav #26: Feature Branch Workflow [Start Date: ???] [Completed Date: ???]
-
-Nav #27: Forking Workflow [Start Date: ???] [Completed Date: ???]
 ------
 
 
@@ -69,7 +57,19 @@ Doing List:
 ------
 Anthony
 
+Nav #21: Remote Repositories [Start Date: Oct.9th, 2026] [Completed Date: ???]
 
+Nav #22: Adding/Configuring a GitHub Remote [Start Date: Oct.9th, 2026] [Completed Date: ???]
+
+Nav #23: Pushing and Pulling [Start Date: Oct.9th, 2026] [Completed Date: ???]
+
+Nav #24: The How and The Why of Team Git Workflow [Start Date: Oct.9th, 2026] [Completed Date: ???]
+
+Nav #25: Centralized Workflow [Start Date: Oct.9th, 2026] [Completed Date: ???]
+
+Nav #26: Feature Branch Workflow [Start Date: Oct.9th, 2026] [Completed Date: ???]
+
+Nav #27: Forking Workflow [Start Date: Oct.9th, 2026] [Completed Date: ???]
 ------
 
 
@@ -146,6 +146,7 @@ Nav #16: When to use the different Strategies [Start Date: 07,10,2026] [Complete
 
 Nav #19: Stashing [Start Date: 08,10,2026] [Completed Date: 09,10,2026]
 ------
+
 
 
 
