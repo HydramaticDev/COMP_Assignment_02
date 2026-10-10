@@ -4,7 +4,7 @@
 
 ## layout: default
 title: Stashing
-nav_order: 5
+nav_order: 8
 
 # Stashing: Temporarily Shelving Work
 
